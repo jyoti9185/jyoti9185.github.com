@@ -4,6 +4,6 @@ title: "okkkzz"
 date: 2013-05-31 12:01
 comments: true
 categories: 
-Author:JYOTI
+author: JYOTI
 ---
 hello everyone!!!!
