@@ -14,4 +14,4 @@ So Eden sank to grief,
 So dawn goes down to day.
 Nothing gold can stay
 
-{% img http://www.whitegadget.com/attachments/pc-wallpapers/27565d1246360045-nature-photos-wallpapers-images-beautiful-pictures-nature-wallpaper.jpg % }
+{ % img http://www.whitegadget.com/attachments/pc-wallpapers/27565d1246360045-nature-photos-wallpapers-images-beautiful-pictures-nature-wallpaper.jpg % }
